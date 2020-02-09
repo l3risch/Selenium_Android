@@ -1,0 +1,472 @@
+###########################################################################################
+0) Loading Time for https://www.google.com: 308
+0) Loading Time for https://www.youtube.com: 328
+0) Loading Time for https://www.facebook.com: 400
+0) Loading Time for https://www.wikipedia.org: 172
+0) Loading Time for https://www.Netflix.com: 1043
+0) Loading Time for https://www.Blogspot.com: 2188
+0) Loading Time for https://www.bing.com: 201
+0) Loading Time for https://www.instagram.com: 465
+0) Loading Time for https://www.office.com: 181
+0) Loading Time for https://www.google.com.hk: 252
+0) Loading Time for https://www.yandex.ru: 668
+0) Loading Time for https://www.dropbox.com: 922
+0) Loading Time for https://www.linkedin.com: 505
+0) Loading Time for https://www.google.de: 118
+0) Loading Time for https://www.google.com.br: 121
+0) Loading Time for https://www.medium.com: 846
+0) Loading Time for https://www.cnn.com: 525
+0) Loading Time for https://www.google.ru: 252
+0) Loading Time for https://www.google.it: 131
+0) Loading Time for https://www.google.cn: 194
+
+1) Loading Time for https://www.google.com: 101
+1) Loading Time for https://www.youtube.com: 283
+1) Loading Time for https://www.facebook.com: 145
+1) Loading Time for https://www.wikipedia.org: 136
+1) Loading Time for https://www.Netflix.com: 1933
+1) Loading Time for https://www.Blogspot.com: 993
+1) Loading Time for https://www.bing.com: 98
+1) Loading Time for https://www.instagram.com: 257
+1) Loading Time for https://www.office.com: 126
+1) Loading Time for https://www.google.com.hk: 139
+1) Loading Time for https://www.yandex.ru: 253
+1) Loading Time for https://www.dropbox.com: 783
+1) Loading Time for https://www.linkedin.com: 217
+1) Loading Time for https://www.google.de: 115
+1) Loading Time for https://www.google.com.br: 117
+1) Loading Time for https://www.medium.com: 270
+1) Loading Time for https://www.cnn.com: 154
+1) Loading Time for https://www.google.ru: 181
+1) Loading Time for https://www.google.it: 118
+1) Loading Time for https://www.google.cn: 48
+
+2) Loading Time for https://www.google.com: 100
+2) Loading Time for https://www.youtube.com: 207
+2) Loading Time for https://www.facebook.com: 159
+2) Loading Time for https://www.wikipedia.org: 43
+2) Loading Time for https://www.Netflix.com: 862
+2) Loading Time for https://www.Blogspot.com: 983
+2) Loading Time for https://www.bing.com: 81
+2) Loading Time for https://www.instagram.com: 213
+2) Loading Time for https://www.office.com: 315
+2) Loading Time for https://www.google.com.hk: 129
+2) Loading Time for https://www.yandex.ru: 305
+2) Loading Time for https://www.dropbox.com: 670
+2) Loading Time for https://www.linkedin.com: 209
+2) Loading Time for https://www.google.de: 126
+2) Loading Time for https://www.google.com.br: 105
+2) Loading Time for https://www.medium.com: 369
+2) Loading Time for https://www.cnn.com: 110
+2) Loading Time for https://www.google.ru: 135
+2) Loading Time for https://www.google.it: 112
+2) Loading Time for https://www.google.cn: 49
+
+3) Loading Time for https://www.google.com: 114
+3) Loading Time for https://www.youtube.com: 183
+3) Loading Time for https://www.facebook.com: 213
+3) Loading Time for https://www.wikipedia.org: 47
+3) Loading Time for https://www.Netflix.com: 1152
+3) Loading Time for https://www.Blogspot.com: 1348
+3) Loading Time for https://www.bing.com: 76
+3) Loading Time for https://www.instagram.com: 334
+3) Loading Time for https://www.office.com: 134
+3) Loading Time for https://www.google.com.hk: 151
+3) Loading Time for https://www.yandex.ru: 261
+3) Loading Time for https://www.dropbox.com: 774
+3) Loading Time for https://www.linkedin.com: 262
+3) Loading Time for https://www.google.de: 119
+3) Loading Time for https://www.google.com.br: 238
+3) Loading Time for https://www.medium.com: 542
+3) Loading Time for https://www.cnn.com: 109
+3) Loading Time for https://www.google.ru: 112
+3) Loading Time for https://www.google.it: 122
+3) Loading Time for https://www.google.cn: 76
+
+4) Loading Time for https://www.google.com: 120
+4) Loading Time for https://www.youtube.com: 292
+4) Loading Time for https://www.facebook.com: 183
+4) Loading Time for https://www.wikipedia.org: 41
+4) Loading Time for https://www.Netflix.com: 1064
+4) Loading Time for https://www.Blogspot.com: 1058
+4) Loading Time for https://www.bing.com: 76
+4) Loading Time for https://www.instagram.com: 443
+4) Loading Time for https://www.office.com: 124
+4) Loading Time for https://www.google.com.hk: 195
+4) Loading Time for https://www.yandex.ru: 376
+4) Loading Time for https://www.dropbox.com: 712
+4) Loading Time for https://www.linkedin.com: 207
+4) Loading Time for https://www.google.de: 124
+4) Loading Time for https://www.google.com.br: 98
+4) Loading Time for https://www.medium.com: 349
+4) Loading Time for https://www.cnn.com: 102
+4) Loading Time for https://www.google.ru: 111
+4) Loading Time for https://www.google.it: 413
+4) Loading Time for https://www.google.cn: 46
+
+5) Loading Time for https://www.google.com: 109
+5) Loading Time for https://www.youtube.com: 216
+5) Loading Time for https://www.facebook.com: 154
+5) Loading Time for https://www.wikipedia.org: 60
+5) Loading Time for https://www.Netflix.com: 828
+5) Loading Time for https://www.Blogspot.com: 1030
+5) Loading Time for https://www.bing.com: 74
+5) Loading Time for https://www.instagram.com: 215
+5) Loading Time for https://www.office.com: 239
+5) Loading Time for https://www.google.com.hk: 125
+5) Loading Time for https://www.yandex.ru: 312
+5) Loading Time for https://www.dropbox.com: 791
+5) Loading Time for https://www.linkedin.com: 218
+5) Loading Time for https://www.google.de: 111
+5) Loading Time for https://www.google.com.br: 114
+5) Loading Time for https://www.medium.com: 586
+5) Loading Time for https://www.cnn.com: 100
+5) Loading Time for https://www.google.ru: 115
+5) Loading Time for https://www.google.it: 100
+5) Loading Time for https://www.google.cn: 42
+
+6) Loading Time for https://www.google.com: 112
+6) Loading Time for https://www.youtube.com: 400
+6) Loading Time for https://www.facebook.com: 150
+6) Loading Time for https://www.wikipedia.org: 45
+6) Loading Time for https://www.Netflix.com: 940
+6) Loading Time for https://www.Blogspot.com: 976
+6) Loading Time for https://www.bing.com: 76
+6) Loading Time for https://www.instagram.com: 379
+6) Loading Time for https://www.office.com: 133
+6) Loading Time for https://www.google.com.hk: 135
+6) Loading Time for https://www.yandex.ru: 296
+6) Loading Time for https://www.dropbox.com: 676
+6) Loading Time for https://www.linkedin.com: 249
+6) Loading Time for https://www.google.de: 113
+6) Loading Time for https://www.google.com.br: 107
+6) Loading Time for https://www.medium.com: 326
+6) Loading Time for https://www.cnn.com: 105
+6) Loading Time for https://www.google.ru: 109
+6) Loading Time for https://www.google.it: 99
+6) Loading Time for https://www.google.cn: 46
+
+7) Loading Time for https://www.google.com: 114
+7) Loading Time for https://www.youtube.com: 197
+7) Loading Time for https://www.facebook.com: 161
+7) Loading Time for https://www.wikipedia.org: 59
+7) Loading Time for https://www.Netflix.com: 1420
+7) Loading Time for https://www.Blogspot.com: 944
+7) Loading Time for https://www.bing.com: 74
+7) Loading Time for https://www.instagram.com: 215
+7) Loading Time for https://www.office.com: 155
+7) Loading Time for https://www.google.com.hk: 142
+7) Loading Time for https://www.yandex.ru: 409
+7) Loading Time for https://www.dropbox.com: 784
+7) Loading Time for https://www.linkedin.com: 252
+7) Loading Time for https://www.google.de: 113
+7) Loading Time for https://www.google.com.br: 96
+7) Loading Time for https://www.medium.com: 300
+7) Loading Time for https://www.cnn.com: 86
+7) Loading Time for https://www.google.ru: 108
+7) Loading Time for https://www.google.it: 115
+7) Loading Time for https://www.google.cn: 54
+
+8) Loading Time for https://www.google.com: 121
+8) Loading Time for https://www.youtube.com: 189
+8) Loading Time for https://www.facebook.com: 163
+8) Loading Time for https://www.wikipedia.org: 45
+8) Loading Time for https://www.Netflix.com: 1004
+8) Loading Time for https://www.Blogspot.com: 969
+8) Loading Time for https://www.bing.com: 183
+8) Loading Time for https://www.instagram.com: 239
+8) Loading Time for https://www.office.com: 243
+8) Loading Time for https://www.google.com.hk: 123
+8) Loading Time for https://www.yandex.ru: 329
+8) Loading Time for https://www.dropbox.com: 733
+8) Loading Time for https://www.linkedin.com: 263
+8) Loading Time for https://www.google.de: 105
+8) Loading Time for https://www.google.com.br: 115
+8) Loading Time for https://www.medium.com: 421
+8) Loading Time for https://www.cnn.com: 113
+8) Loading Time for https://www.google.ru: 120
+8) Loading Time for https://www.google.it: 263
+8) Loading Time for https://www.google.cn: 63
+
+9) Loading Time for https://www.google.com: 110
+9) Loading Time for https://www.youtube.com: 173
+9) Loading Time for https://www.facebook.com: 170
+9) Loading Time for https://www.wikipedia.org: 83
+9) Loading Time for https://www.Netflix.com: 646
+9) Loading Time for https://www.Blogspot.com: 998
+9) Loading Time for https://www.bing.com: 122
+9) Loading Time for https://www.instagram.com: 214
+9) Loading Time for https://www.office.com: 179
+9) Loading Time for https://www.google.com.hk: 120
+9) Loading Time for https://www.yandex.ru: 334
+9) Loading Time for https://www.dropbox.com: 682
+9) Loading Time for https://www.linkedin.com: 246
+9) Loading Time for https://www.google.de: 115
+9) Loading Time for https://www.google.com.br: 111
+9) Loading Time for https://www.medium.com: 349
+9) Loading Time for https://www.cnn.com: 52
+9) Loading Time for https://www.google.ru: 109
+9) Loading Time for https://www.google.it: 109
+9) Loading Time for https://www.google.cn: 42
+
+10) Loading Time for https://www.google.com: 102
+10) Loading Time for https://www.youtube.com: 162
+10) Loading Time for https://www.facebook.com: 165
+10) Loading Time for https://www.wikipedia.org: 79
+10) Loading Time for https://www.Netflix.com: 973
+10) Loading Time for https://www.Blogspot.com: 1060
+10) Loading Time for https://www.bing.com: 76
+10) Loading Time for https://www.instagram.com: 250
+10) Loading Time for https://www.office.com: 231
+10) Loading Time for https://www.google.com.hk: 126
+10) Loading Time for https://www.yandex.ru: 327
+10) Loading Time for https://www.dropbox.com: 2639
+10) Loading Time for https://www.linkedin.com: 218
+10) Loading Time for https://www.google.de: 118
+10) Loading Time for https://www.google.com.br: 111
+10) Loading Time for https://www.medium.com: 446
+10) Loading Time for https://www.cnn.com: 120
+10) Loading Time for https://www.google.ru: 107
+10) Loading Time for https://www.google.it: 97
+10) Loading Time for https://www.google.cn: 59
+
+11) Loading Time for https://www.google.com: 112
+11) Loading Time for https://www.youtube.com: 183
+11) Loading Time for https://www.facebook.com: 157
+11) Loading Time for https://www.wikipedia.org: 41
+11) Loading Time for https://www.Netflix.com: 1542
+11) Loading Time for https://www.Blogspot.com: 1031
+11) Loading Time for https://www.bing.com: 74
+11) Loading Time for https://www.instagram.com: 255
+11) Loading Time for https://www.office.com: 225
+11) Loading Time for https://www.google.com.hk: 117
+11) Loading Time for https://www.yandex.ru: 268
+11) Loading Time for https://www.dropbox.com: 720
+11) Loading Time for https://www.linkedin.com: 292
+11) Loading Time for https://www.google.de: 112
+11) Loading Time for https://www.google.com.br: 111
+11) Loading Time for https://www.medium.com: 357
+11) Loading Time for https://www.cnn.com: 54
+11) Loading Time for https://www.google.ru: 118
+11) Loading Time for https://www.google.it: 111
+11) Loading Time for https://www.google.cn: 42
+
+12) Loading Time for https://www.google.com: 100
+12) Loading Time for https://www.youtube.com: 186
+12) Loading Time for https://www.facebook.com: 160
+12) Loading Time for https://www.wikipedia.org: 67
+12) Loading Time for https://www.Netflix.com: 757
+12) Loading Time for https://www.Blogspot.com: 1284
+12) Loading Time for https://www.bing.com: 75
+12) Loading Time for https://www.instagram.com: 545
+12) Loading Time for https://www.office.com: 333
+12) Loading Time for https://www.google.com.hk: 127
+12) Loading Time for https://www.yandex.ru: 314
+12) Loading Time for https://www.dropbox.com: 772
+12) Loading Time for https://www.linkedin.com: 222
+12) Loading Time for https://www.google.de: 120
+12) Loading Time for https://www.google.com.br: 117
+12) Loading Time for https://www.medium.com: 664
+12) Loading Time for https://www.cnn.com: 106
+12) Loading Time for https://www.google.ru: 133
+12) Loading Time for https://www.google.it: 105
+12) Loading Time for https://www.google.cn: 44
+
+13) Loading Time for https://www.google.com: 107
+13) Loading Time for https://www.youtube.com: 178
+13) Loading Time for https://www.facebook.com: 162
+13) Loading Time for https://www.wikipedia.org: 43
+13) Loading Time for https://www.Netflix.com: 1364
+13) Loading Time for https://www.Blogspot.com: 1006
+13) Loading Time for https://www.bing.com: 79
+13) Loading Time for https://www.instagram.com: 242
+13) Loading Time for https://www.office.com: 125
+13) Loading Time for https://www.google.com.hk: 130
+13) Loading Time for https://www.yandex.ru: 316
+13) Loading Time for https://www.dropbox.com: 2074
+13) Loading Time for https://www.linkedin.com: 209
+13) Loading Time for https://www.google.de: 276
+13) Loading Time for https://www.google.com.br: 107
+13) Loading Time for https://www.medium.com: 403
+13) Loading Time for https://www.cnn.com: 138
+13) Loading Time for https://www.google.ru: 113
+13) Loading Time for https://www.google.it: 143
+13) Loading Time for https://www.google.cn: 50
+
+14) Loading Time for https://www.google.com: 111
+14) Loading Time for https://www.youtube.com: 209
+14) Loading Time for https://www.facebook.com: 194
+14) Loading Time for https://www.wikipedia.org: 39
+14) Loading Time for https://www.Netflix.com: 1122
+14) Loading Time for https://www.Blogspot.com: 1179
+14) Loading Time for https://www.bing.com: 140
+14) Loading Time for https://www.instagram.com: 206
+14) Loading Time for https://www.office.com: 131
+14) Loading Time for https://www.google.com.hk: 114
+14) Loading Time for https://www.yandex.ru: 322
+14) Loading Time for https://www.dropbox.com: 739
+14) Loading Time for https://www.linkedin.com: 218
+14) Loading Time for https://www.google.de: 109
+14) Loading Time for https://www.google.com.br: 112
+14) Loading Time for https://www.medium.com: 465
+14) Loading Time for https://www.cnn.com: 103
+14) Loading Time for https://www.google.ru: 107
+14) Loading Time for https://www.google.it: 107
+14) Loading Time for https://www.google.cn: 45
+
+15) Loading Time for https://www.google.com: 118
+15) Loading Time for https://www.youtube.com: 283
+15) Loading Time for https://www.facebook.com: 186
+15) Loading Time for https://www.wikipedia.org: 44
+15) Loading Time for https://www.Netflix.com: 668
+15) Loading Time for https://www.Blogspot.com: 1654
+15) Loading Time for https://www.bing.com: 76
+15) Loading Time for https://www.instagram.com: 207
+15) Loading Time for https://www.office.com: 181
+15) Loading Time for https://www.google.com.hk: 126
+15) Loading Time for https://www.yandex.ru: 327
+15) Loading Time for https://www.dropbox.com: 799
+15) Loading Time for https://www.linkedin.com: 263
+15) Loading Time for https://www.google.de: 125
+15) Loading Time for https://www.google.com.br: 108
+15) Loading Time for https://www.medium.com: 439
+15) Loading Time for https://www.cnn.com: 107
+15) Loading Time for https://www.google.ru: 118
+15) Loading Time for https://www.google.it: 127
+15) Loading Time for https://www.google.cn: 47
+
+16) Loading Time for https://www.google.com: 110
+16) Loading Time for https://www.youtube.com: 206
+16) Loading Time for https://www.facebook.com: 162
+16) Loading Time for https://www.wikipedia.org: 59
+16) Loading Time for https://www.Netflix.com: 899
+16) Loading Time for https://www.Blogspot.com: 1083
+16) Loading Time for https://www.bing.com: 74
+16) Loading Time for https://www.instagram.com: 335
+16) Loading Time for https://www.office.com: 130
+16) Loading Time for https://www.google.com.hk: 121
+16) Loading Time for https://www.yandex.ru: 298
+16) Loading Time for https://www.dropbox.com: 1010
+16) Loading Time for https://www.linkedin.com: 281
+16) Loading Time for https://www.google.de: 117
+16) Loading Time for https://www.google.com.br: 105
+16) Loading Time for https://www.medium.com: 491
+16) Loading Time for https://www.cnn.com: 103
+16) Loading Time for https://www.google.ru: 122
+16) Loading Time for https://www.google.it: 101
+16) Loading Time for https://www.google.cn: 43
+
+17) Loading Time for https://www.google.com: 116
+17) Loading Time for https://www.youtube.com: 255
+17) Loading Time for https://www.facebook.com: 208
+17) Loading Time for https://www.wikipedia.org: 42
+17) Loading Time for https://www.Netflix.com: 829
+17) Loading Time for https://www.Blogspot.com: 1133
+17) Loading Time for https://www.bing.com: 74
+17) Loading Time for https://www.instagram.com: 209
+17) Loading Time for https://www.office.com: 109
+17) Loading Time for https://www.google.com.hk: 155
+17) Loading Time for https://www.yandex.ru: 292
+17) Loading Time for https://www.dropbox.com: 727
+17) Loading Time for https://www.linkedin.com: 279
+17) Loading Time for https://www.google.de: 121
+17) Loading Time for https://www.google.com.br: 114
+17) Loading Time for https://www.medium.com: 491
+17) Loading Time for https://www.cnn.com: 132
+17) Loading Time for https://www.google.ru: 158
+17) Loading Time for https://www.google.it: 122
+17) Loading Time for https://www.google.cn: 46
+
+18) Loading Time for https://www.google.com: 105
+18) Loading Time for https://www.youtube.com: 234
+18) Loading Time for https://www.facebook.com: 172
+18) Loading Time for https://www.wikipedia.org: 74
+18) Loading Time for https://www.Netflix.com: 865
+18) Loading Time for https://www.Blogspot.com: 1101
+18) Loading Time for https://www.bing.com: 71
+18) Loading Time for https://www.instagram.com: 215
+18) Loading Time for https://www.office.com: 1043
+18) Loading Time for https://www.google.com.hk: 128
+18) Loading Time for https://www.yandex.ru: 529
+18) Loading Time for https://www.dropbox.com: 1668
+18) Loading Time for https://www.linkedin.com: 265
+18) Loading Time for https://www.google.de: 115
+18) Loading Time for https://www.google.com.br: 105
+18) Loading Time for https://www.medium.com: 302
+18) Loading Time for https://www.cnn.com: 111
+18) Loading Time for https://www.google.ru: 103
+18) Loading Time for https://www.google.it: 104
+18) Loading Time for https://www.google.cn: 45
+
+19) Loading Time for https://www.google.com: 110
+19) Loading Time for https://www.youtube.com: 228
+19) Loading Time for https://www.facebook.com: 196
+19) Loading Time for https://www.wikipedia.org: 48
+19) Loading Time for https://www.Netflix.com: 880
+19) Loading Time for https://www.Blogspot.com: 1005
+19) Loading Time for https://www.bing.com: 72
+19) Loading Time for https://www.instagram.com: 229
+19) Loading Time for https://www.office.com: 200
+19) Loading Time for https://www.google.com.hk: 116
+19) Loading Time for https://www.yandex.ru: 308
+19) Loading Time for https://www.dropbox.com: 1050
+19) Loading Time for https://www.linkedin.com: 213
+19) Loading Time for https://www.google.de: 103
+19) Loading Time for https://www.google.com.br: 100
+19) Loading Time for https://www.medium.com: 297
+19) Loading Time for https://www.cnn.com: 103
+19) Loading Time for https://www.google.ru: 113
+19) Loading Time for https://www.google.it: 103
+19) Loading Time for https://www.google.cn: 41
+
+----------------------------------------------------------------
+Means:
+
+https://www.google.com Mean: 120
+https://www.youtube.com Mean: 229
+https://www.facebook.com Mean: 183
+https://www.wikipedia.org Mean: 63
+https://www.Netflix.com Mean: 1039
+https://www.Blogspot.com Mean: 1151
+https://www.bing.com Mean: 93
+https://www.instagram.com Mean: 283
+https://www.office.com Mean: 226
+https://www.google.com.hk Mean: 138
+https://www.yandex.ru Mean: 342
+https://www.dropbox.com Mean: 986
+https://www.linkedin.com Mean: 0
+https://www.google.de Mean: 123
+https://www.google.com.br Mean: 115
+https://www.medium.com Mean: 435
+https://www.cnn.com Mean: 126
+https://www.google.ru Mean: 127
+https://www.google.it Mean: 135
+https://www.google.cn Mean: 56
+----------------------------------------------------------------
+Standard Deviations:
+
+https://www.google.com STD: 43
+https://www.youtube.com STD: 59
+https://www.facebook.com STD: 53
+https://www.wikipedia.org STD: 33
+https://www.Netflix.com STD: 308
+https://www.Blogspot.com STD: 288
+https://www.bing.com STD: 37
+https://www.instagram.com STD: 97
+https://www.office.com STD: 197
+https://www.google.com.hk STD: 31
+https://www.yandex.ru STD: 94
+https://www.dropbox.com STD: 512
+https://www.linkedin.com STD: 0
+https://www.google.de STD: 35
+https://www.google.com.br STD: 28
+https://www.medium.com STD: 138
+https://www.cnn.com STD: 94
+https://www.google.ru STD: 34
+https://www.google.it STD: 72
+https://www.google.cn STD: 32
+----------------------------------------------------------------
+
+Overall Mean: 311
+Overall Variance: 135369
+Overall Standard Deviation: 367
