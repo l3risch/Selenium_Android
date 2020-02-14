@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='IPv6y_Selenium'
+rootProject.name='My Application'
